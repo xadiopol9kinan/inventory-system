@@ -7,3 +7,4 @@
 08:52:07 | permission=615227
 08:52:09 | service_name=8376
 08:52:12 | sha256=aea40cf9f7b90b745a89b84fc4fa28d9878df557bc63032786bfc9f12b183ec5
+09:52:07 | permission=302126
