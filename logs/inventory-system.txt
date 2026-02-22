@@ -35,3 +35,4 @@
 17:52:11 | service_name=5764
 17:52:14 | sha256=a8f39eca5099201cee24aaef3da5e3c8e3d57db256cfa1ba9088f24d3a6b4db3
 18:52:08 | permission=267756
+18:52:10 | service_name=9284
