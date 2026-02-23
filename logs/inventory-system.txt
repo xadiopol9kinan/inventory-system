@@ -95,3 +95,4 @@
 14:52:10 | service_name=6091
 14:52:14 | sha256=ac2b878bd71c7059aed7f46662d4aa8ae75748ab23f2599a18ca5289a6df798a
 15:52:10 | permission=919228
+15:52:14 | service_name=3661
