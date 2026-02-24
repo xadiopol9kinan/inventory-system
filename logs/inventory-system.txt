@@ -158,3 +158,4 @@
 11:52:12 | service_name=2501
 11:52:15 | sha256=d798316c82756fdc2fce8325e678bcee632eeae6f2c4fc4338e21f9e68aa5b03
 12:52:09 | permission=213089
+12:52:12 | service_name=6215
